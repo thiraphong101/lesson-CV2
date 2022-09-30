@@ -1,0 +1,4 @@
+1. loadText install ==  https://packagecontrol.io/installation ## copy
+2. Tab View --> Show Console --> Paste
+3. Tab Preferencwnces  --> Package Control
+4. Package Control:Install package --> Sublimerepl
